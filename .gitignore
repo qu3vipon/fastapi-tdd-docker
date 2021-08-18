@@ -2,3 +2,6 @@
 __pycache__
 env
 .python-version
+project/htmlcov
+project/.coverage*
+
